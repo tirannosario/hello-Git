@@ -1,2 +1,4 @@
 # hello-Git
-test
+
+Hi Humans,
+This is a test!
